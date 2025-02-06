@@ -41,5 +41,4 @@ This project uses computer vision and hand tracking to control your computer's m
 ## Notes
 - The program is designed to work with a single hand.
 - The sensitivity of the click gesture can be adjusted by modifying the `distance` threshold in the code.
-- Ensure proper lighting conditions for accurate hand tracking.
 
